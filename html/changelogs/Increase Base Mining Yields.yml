@@ -1,0 +1,6 @@
+uthor: Honkel
+
+delete-after: True
+
+changes:
+  - balance: "Increases the base yields of all minerals that aren't diamonds or phoron" 
